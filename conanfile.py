@@ -7,7 +7,7 @@ import os
 
 class NanomsgConan(ConanFile):
     name = "nanomsg"
-    version = "1.1.2"
+    version = "1.1.5"
     description = "Simple high-performance implementation of several scalability protocols"
     topics = ("conan", "nanomsg", "communication", "messaging", "protocols")
     url = "https://github.com/bincrafters/conan-nanomsg"
