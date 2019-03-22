@@ -47,7 +47,7 @@ class NanomsgConan(ConanFile):
         del self.settings.compiler.libcxx
 
     def source(self):
-        sha256 = "3c52165a735c2fb597d2306593ae4b17900688b90113d4115ad8480288f28ccb"
+        sha256 = "218b31ae1534ab897cb5c419973603de9ca1a5f54df2e724ab4a188eb416df5a"
         tools.get("{0}/archive/{1}.tar.gz".format(self.homepage, self.version), sha256=sha256)
         extracted_dir = self.name + "-" + self.version
         os.rename(extracted_dir, self._source_subfolder)
