@@ -1,5 +1,5 @@
 [![Download](https://api.bintray.com/packages/bincrafters/public-conan/nanomsg%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/nanomsg%3Abincrafters/_latestVersion)
-[![Build Status Travis](https://travis-ci.org/bincrafters/conan-nanomsg.svg?branch=stable%2F1.1.2)](https://travis-ci.org/bincrafters/conan-nanomsg)
+[![Build Status Travis](https://travis-ci.com/bincrafters/conan-nanomsg.svg?branch=stable%2F1.1.2)](https://travis-ci.com/bincrafters/conan-nanomsg)
 [![Build Status AppVeyor](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-nanomsg?branch=stable%2F1.1.2&svg=true)](https://ci.appveyor.com/project/bincrafters/conan-nanomsg)
 
 ## Conan package recipe for *nanomsg*
