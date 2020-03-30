@@ -10,7 +10,6 @@ class NanomsgConan(ConanFile):
     url = "https://github.com/bincrafters/conan-nanomsg"
     homepage = "https://github.com/nanomsg/nanomsg"
     license = "MIT"
-    exports = ["LICENSE.md"]
     exports_sources = ["CMakeLists.txt"]
     settings = "os", "compiler", "build_type", "arch"
     generators = "cmake"
